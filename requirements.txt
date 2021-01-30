@@ -1,0 +1,4 @@
+chromedriver-binary
+numpy
+pandas
+selenium
