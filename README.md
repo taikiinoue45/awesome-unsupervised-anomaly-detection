@@ -2,6 +2,10 @@
   <img src=assets/logo.svg width="80%" />
 </p>
 
+![num_awesome](https://img.shields.io/badge/num_awesome-4-num_awesome.svg?logo=github&logoColor=white)
+![num_tsundoku](https://img.shields.io/badge/num_tsundoku-1-tsundoku.svg?logo=github&logoColor=white)
+
+
 A Curated List of Awesome Anomaly Detection on MVTec AD Dataset
 
 <br>
