@@ -7,14 +7,14 @@
 ![update](https://img.shields.io/badge/last_updated-2021.01.31-update.svg?logo=github&logoColor=white)
 
 
-A Curated List of Awesome Anomaly Detection on MVTec AD Dataset
+A Curated List of Awesome Unsupervised Anomaly Detection on MVTec AD Dataset
 
 <br>
 
 ## Table of Contents
 
 - [1. What is MVTec AD Dataset?](#what-is-mvtec-ad-dataset?)
-- [2. Awesome Papers](#awesome-papers)
+- [2. Awesome Unsupervised Anomaly Detection](#awesome-unsupervised-anomaly-detection)
 - [3. Tsundoku](#tsundoku)
 - [4. Contacts](#contacts)
 
@@ -35,7 +35,7 @@ Anomaly Detection](https://link.springer.com/article/10.1007/s11263-020-01400-4)
 
 <br>
 
-## 2. Awesome Papers
+## 2. Awesome Unsupervised Anomaly Detection
 
 - [uninformed students: student-teacher anomaly detection with discriminative latent embeddings](http://openaccess.thecvf.com/content_CVPR_2020/html/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.html)
 - [reconstruction by inpainting for visual anomaly detection](https://www.sciencedirect.com/science/article/pii/S0031320320305094?casa_token=nhWfkBVqhwQAAAAA:-HEQ-Luzd2dNwI2bdpzHVnfa07meuW7g4K7TBQbzdrJgYYt0cIDoKLsgopQ0av-_ii-bkGi8lBk)
