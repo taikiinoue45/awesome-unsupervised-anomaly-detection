@@ -16,6 +16,7 @@ A Curated List of Awesome Anomaly Detection on MVTec AD Dataset
 - [1. What is MVTec AD Dataset?](#what-is-mvtec-ad-dataset?)
 - [2. Awesome Papers](#awesome-papers)
 - [3. Tsundoku](#tsundoku)
+- [4. Contacts](#contacts)
 
 <br>
 
@@ -46,3 +47,11 @@ Anomaly Detection](https://link.springer.com/article/10.1007/s11263-020-01400-4)
 ## 3. Tsundoku
 
 - [detecting road obstacles by erasing them](https://arxiv.org/abs/2012.13633)
+
+<br>
+
+## 4. Contacts
+
+- github: https://github.com/taikiinoue45/
+- twitter: https://twitter.com/taikiinoue45/
+- linkedin: https://www.linkedin.com/in/taikiinoue45/
