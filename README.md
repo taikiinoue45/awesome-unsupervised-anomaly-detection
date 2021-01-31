@@ -1,5 +1,5 @@
 <p align="left">
-  <img src=assets/logo.svg width="80%" />
+  <img src=assets/logo.svg width="100%" />
 </p>
 
 ![awesome](https://img.shields.io/badge/awesome-4-awesome.svg?logo=github&logoColor=white)
