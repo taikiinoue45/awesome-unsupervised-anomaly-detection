@@ -2,9 +2,9 @@
   <img src=assets/logo.svg width="95%" />
 </p>
 
-![awesome](https://img.shields.io/badge/awesome-4-awesome.svg?logo=github&logoColor=white)
+![awesome](https://img.shields.io/badge/awesome-6-awesome.svg?logo=github&logoColor=white)
 ![tsundoku](https://img.shields.io/badge/tsundoku-1-tsundoku.svg?logo=github&logoColor=white)
-![update](https://img.shields.io/badge/last_updated-2021.01.31-update.svg?logo=github&logoColor=white)
+![update](https://img.shields.io/badge/last_updated-2021.02.05-update.svg?logo=github&logoColor=white)
 
 
 A Curated List of Awesome Unsupervised Anomaly Detection on MVTec AD Dataset
@@ -41,6 +41,8 @@ Anomaly Detection](https://link.springer.com/article/10.1007/s11263-020-01400-4)
 - [reconstruction by inpainting for visual anomaly detection](https://www.sciencedirect.com/science/article/pii/S0031320320305094?casa_token=nhWfkBVqhwQAAAAA:-HEQ-Luzd2dNwI2bdpzHVnfa07meuW7g4K7TBQbzdrJgYYt0cIDoKLsgopQ0av-_ii-bkGi8lBk)
 - [sub-image anomaly detection with deep pyramid correspondences](https://arxiv.org/abs/2005.02357)
 - [modeling the distribution of normal data in pre-trained deep features for anomaly detection](https://arxiv.org/abs/2005.14140)
+- [DFR: Deep Feature Reconstruction for Unsupervised Anomaly Segmentation](https://arxiv.org/abs/2012.07122)
+- [Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows](https://arxiv.org/abs/2008.12577)
 
 <br>
 
